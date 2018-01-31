@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="background">res/a8c52e4c40de929c8287f70df5b08dcf.jpg</file>
+        <file alias="out">res/1189761.png</file>
+        <file alias="anniu1">res/8fbfdb641041a132f384a233f37a2c2c - 副本 (2).jpg</file>
+        <file alias="anniu2">res/8fbfdb641041a132f384a233f37a2c2c - 副本.jpg</file>
+        <file alias="anniu3">res/8fbfdb641041a132f384a233f37a2c2c.jpg</file>
+        <file alias="biaoqian">res/c99e48484c604ba62ce77d4c454df100.jpg</file>
+        <file alias="bbb">res/fad4e1d23b37cb2b1ea27e59f5cc15d9 (1).jpg</file>
+        <file alias="query">res/1075803.png</file>
+        <file>res/584613.png</file>
+        <file>res/540091.png</file>
+        <file>res/583562.png</file>
+        <file>res/1077575.png</file>
+        <file>res/1130670.png</file>
+        <file>res/1165516.png</file>
+        <file>res/1169811.png</file>
+        <file>res/1190321.png</file>
+        <file>res/1195181.png</file>
+    </qresource>
+</RCC>
